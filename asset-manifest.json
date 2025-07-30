@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/title_bible/static/css/main.3619c7c3.css",
+    "main.js": "/title_bible/static/js/main.0aa6b9c7.js",
+    "static/js/453.a3c1d153.chunk.js": "/title_bible/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/title_bible/index.html",
+    "main.3619c7c3.css.map": "/title_bible/static/css/main.3619c7c3.css.map",
+    "main.0aa6b9c7.js.map": "/title_bible/static/js/main.0aa6b9c7.js.map",
+    "453.a3c1d153.chunk.js.map": "/title_bible/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3619c7c3.css",
+    "static/js/main.0aa6b9c7.js"
+  ]
+}
